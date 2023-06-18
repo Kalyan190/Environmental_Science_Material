@@ -1,2 +1,2 @@
-# Envirental_Science_Material
+# Environmental_Science_Material
 EVS Study Material
